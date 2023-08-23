@@ -4,7 +4,6 @@
 ;; Created: 2020
 ;; License: GPL-3.0-or-later
 ;; Version: 0.1
-;; Package-Requires: ((emacs "27.1"))
 ;; Homepage: https://github.com/sebastienwae/app-launcher
 
 ;; This file is not part of GNU Emacs.
